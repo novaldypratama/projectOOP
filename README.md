@@ -1,4 +1,3 @@
 # Project Application of OOP
 
-## Aplikasi Managemen Pembayaran UKT Kuliah
-
+## Aplikasi Sederhana Sistem Managemen Bank
